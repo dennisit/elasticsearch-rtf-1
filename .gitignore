@@ -1,7 +1,7 @@
 data
 logs
 under_test
-plugins
+plugins__
 
 wrapper.log
 
