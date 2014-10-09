@@ -1,3 +1,6 @@
+Please install the packages as shown in following list (uncommented):
+
+
 elasticsearch-1.3.4 (http://www.elasticsearch.org/download/)
 
 #**** not compatible with 1.3.4
