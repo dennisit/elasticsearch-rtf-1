@@ -1,0 +1,10 @@
+data
+logs
+under_test
+plugins
+
+wrapper.log
+
+bin/service/elasticsearch.status
+bin/service/elasticsearch.pid
+bin/service/elasticsearch.java.status
